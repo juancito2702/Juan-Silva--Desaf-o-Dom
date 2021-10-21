@@ -13,9 +13,7 @@ Te comento lo que realicé:
 
 4).También modifiqué mi formaulado de entrada, con el getElementById y el .value
 
-5).Creé un Arrays con mis productos más vendidos y los inserté con una tabla, usando 
-
-el Dom
+5).Creé un Arrays con mis productos más vendidos y los inserté con una tabla, usando el Dom.
 
 
 Espero haber cumplido con el desafio. Saludos Ale.
